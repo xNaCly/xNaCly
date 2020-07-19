@@ -5,8 +5,8 @@
 <p align="center">freetime dev</p>
 
 ### Projects:
--
--
+- [InstagramAPIwrapper](https://github.com/xNaCly/InstagramAPIwrapper)
+- [scripts](https://github.com/xNaCly/scripts)
 
 ### Programming languages: 
 - python
