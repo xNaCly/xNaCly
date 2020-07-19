@@ -4,6 +4,9 @@
 <h1 align="center">xnacly</h1>
 <p align="center">freetime dev</p>
 
+Languages: 
+- python
+- javascript
 <!--
 **xNaCly/xNaCly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
