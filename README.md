@@ -14,4 +14,5 @@
 
 ### Frameworks:
 - Node JS
+- Flask
 - GraphQL
