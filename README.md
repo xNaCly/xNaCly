@@ -8,7 +8,6 @@
 |projects|brief overwiev|
 |---|---|
 | [InstagramAPIwrapper](https://github.com/xNaCly/InstagramAPIwrapper) | a python-wrapper around the internal instagram api |
-|---|---|
 | [scripts](https://github.com/xNaCly/scripts)                         | a collection of usefull python-scripts |
 
 ### Programming languages: 
