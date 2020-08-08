@@ -20,4 +20,4 @@
                                                                                                                               
 <br/><br/>
 <img align="" alt="xnacly's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xnacly&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img align="" alt="xnacly's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnacly&layout=compact" />
+<img align="" alt="xnacly's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnacly&layout=compact&hide_border=true" />
