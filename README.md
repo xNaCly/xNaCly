@@ -32,4 +32,4 @@
 ---
 
 <img align="left" alt="xnacly's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xnacly&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="xnacly's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnacly&layout=compact" />
+<img align="" alt="xnacly's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnacly&layout=compact" />
