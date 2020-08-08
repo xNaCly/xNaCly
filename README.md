@@ -19,8 +19,5 @@
 <img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
                                                                                                                               
 <br/><br/>
-
----
-
 <img align="" alt="xnacly's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xnacly&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 <img align="" alt="xnacly's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnacly&layout=compact" />
