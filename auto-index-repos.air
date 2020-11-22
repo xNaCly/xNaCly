@@ -1,0 +1,8 @@
+[General]
+title=<str>
+description=<str>
+Thumpnail=<url>
+
+[Extra]
+url=<url>
+language=<str>
