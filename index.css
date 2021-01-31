@@ -1,0 +1,45 @@
+.projects_main {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 20px;
+}
+.project_main_headline {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 20px;
+}
+.nav-link {
+	color: #0d6efd !important;
+}
+.card-text {
+	font-style: italic;
+}
+.hr_first {
+	width: 50%;
+}
+.project_main_hr_container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.card-img-top {
+	max-width: 250px !important;
+	max-height: 130px !important;
+}
+
+.card {
+	width: 250px;
+	height: 290px;
+	margin: 5px;
+}
+.card > .card-body > a {
+	margin-top: 12px;
+}
+.card:hover {
+	box-shadow: 0px 1px 5px 5px lightgray;
+}
+/* .card-body {
+	background-color: #b1b1b1;
+} */
