@@ -31,7 +31,7 @@
 
 ## About me:
 
-Hi, I'm Matteo, an 18-year-old student from Germany. I'm interested in technologies and programming. I enjoy procrastinating, exercising and listening to music. I like contributing to free open source software and I like to create small qol improving.
+Hi, I'm Matteo, an 18-year-old student from Germany. I'm interested in technologies and programming. I enjoy procrastinating, exercising and listening to music. I like contributing to free open source software and I like to create small qol improving projects.
 
 I enjoy simple, old designs and mostly use monospace fonts for my projects. (this is probably due to nostalgia)
 
@@ -45,11 +45,11 @@ I enjoy simple, old designs and mostly use monospace fonts for my projects. (thi
 								<a href="https://github.com/xNaCly/betterforum">BetterForum</a>
 							</li>
 							<li class="list_el">
-								<a href="https://github.com/xNaCly/tokenchecker-website">tokenchecker</a>
+								<a href="https://github.com/xNaCly/tokenchecker-website">Tokenchecker</a>
 							</li>
 							<li class="list_el">
 								<a href="https://github.com/Flam3rboy/missing-native-JS-functions"
-									>missing native JS functions</a
+									>Missing native JS functions</a
 								>
 							</li>
 							<li class="list_el"><a href="https://github.com/xNaCly/better-issues">BetterIssues</a></li>
@@ -60,10 +60,11 @@ I enjoy simple, old designs and mostly use monospace fonts for my projects. (thi
 								<a href="https://github.com/xNaCly/netflix-rpc">Netflix Discord Integration</a>
 							</li>
 							<li class="list_el">
-								<a href="https://github.com/xNaCly/password-gen">password generator</a>
+								<a href="https://github.com/xNaCly/password-gen">Password generator</a>
 							</li>
-							<li class="list_el"><a href="https://github.com/xNaCly/semikurs-code">semikurs code</a></li>
+							<li class="list_el"><a href="https://github.com/xNaCly/semikurs-code">Semikurs code</a></li>
 						</ul>
+
 
 ## GitHub Stats:
 
