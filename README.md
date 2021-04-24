@@ -60,6 +60,4 @@ I enjoy simple, old designs and mostly use monospace fonts for my projects. (thi
 						</ul>
 
 ## GitHub Stats:
-
-<img align="" alt="xnacly's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xnacly&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img align="" alt="xnacly's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnacly&layout=compact&hide_border=true" />
+![Metrics](https://metrics.lecoq.io/xnacly?template=classic&languages=1&activity=1&achievements=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FBerlin)
