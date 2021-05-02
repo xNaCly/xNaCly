@@ -2,6 +2,8 @@
     <img style="border-radius: 100px" width="128" height="128" src="https://avatars0.githubusercontent.com/u/47723417?s=460&amp;u=10c488f1c4e0644b839df15ecefbfef2a9869305&amp;v=4">
 </p>
 
+![image](https://komarev.com/ghpvc/?username=xnacly&&style=flat-square)
+
 ### [Portfolio](https://xnacly.me/) | [Non <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Portfolio](https://xnacly.github.io/html.html)
 
 ## Skillset:
