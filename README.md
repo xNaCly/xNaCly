@@ -9,7 +9,7 @@ Hi, I'm Matteo, an 18-year-old student from Germany. I'm interested in technolog
 procrastinating, exercising and listening to music. I like contributing to free open source software and I like to
 create small qol improving projects.
 
-I enjoy simple, old designs and mostly use monospace fonts for my projects. (this is probably due to nostalgia)
+I enjoy simple, old designs and mostly use monospace fonts for my projects.
 
 ## Projects:
 
