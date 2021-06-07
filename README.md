@@ -39,6 +39,7 @@ I enjoy simple, old designs and mostly use monospace fonts for my projects. (thi
 								<a href="https://github.com/xNaCly/password-gen">Password generator</a>
 							</li>
 							<li class="list_el"><a href="https://github.com/xNaCly/semikurs-code">Semikurs code</a></li>
+	<li class="list_el"><a href="https://github.com/xNaCly/TeG">PDF generator</a></li>
 							<li class="list_el"><a href="https://github.com/x127f/liber-opinio">Liber Opinio</a></li>
 	<li class="list_el"><a href="https://github.com/xNaCly/portfolio">Portfolio</a></li>
 						</ul>
