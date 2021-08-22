@@ -107,6 +107,17 @@ to free open source software and I like to create small qol improving projects.
 				<img src="https://img.shields.io/github/languages/top/xNaCly/tokenchecker-website?color=2d7389">
 			</td>
 		</tr>
+    <tr>
+			<td>
+				<a href="https://github.com/x127f/liber-opinio">
+        liber opinio
+				</a>
+			</td>
+			<td>Liber-Opinio is a platform to anonymously and without being censored discuss the content of any website.</td>
+			<td>
+				<img src="https://img.shields.io/github/languages/top/x127f/liber-opinio?color=2d7389">
+			</td>
+		</tr>
   </tbody>
 </table>
 
