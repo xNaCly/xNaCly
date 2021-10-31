@@ -121,6 +121,3 @@ to free open source software and I like to create small qol improving projects.
   </tbody>
 </table>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/xnacly?template=classic&languages=1&activity=1&achievements=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FBerlin"/>
-</p>
