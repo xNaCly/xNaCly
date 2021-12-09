@@ -11,7 +11,7 @@
 
 <p>Hi, I'm Matteo, an 18-year-old student from Germany. </p>
 <p>I'm interested in technologies and programming.</p>
-<p>I like contributing to free open source software and I like to create small qol improving projects.</p>
+<p>I like to contribute to free open source software and I like to create small qol improving projects.</p>
 <p>I'm currently majoring in computer science at <a href="https://www.dhbw.de/startseite">DHBW</a>.</p>
 
 <h2> Projects:</h2>
