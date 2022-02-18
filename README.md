@@ -14,7 +14,7 @@
 <p>I like to contribute to free open source software and I like to create small qol improving projects.</p>
 <p>I'm currently majoring in computer science at <a href="https://www.dhbw.de/startseite">DHBW</a>.</p>
 
-<h2> Projects:</h2>
+<!--<h2> Projects:</h2>
 
 <table>
 	<thead>
@@ -121,5 +121,5 @@
 			</td>
 		</tr>
   </tbody>
-</table>
+</table>-->
 
