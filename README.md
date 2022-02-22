@@ -13,6 +13,8 @@
 <p>I'm interested in technologies and programming.</p>
 <p>I like to contribute to free open source software and I like to create small qol improving projects.</p>
 <p>I'm currently majoring in computer science at <a href="https://www.dhbw.de/startseite">DHBW</a>.</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--<h2> Projects:</h2>
 
