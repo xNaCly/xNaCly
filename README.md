@@ -15,4 +15,7 @@
 <p>I'm currently majoring in computer science at <a href="https://www.dhbw.de/startseite">DHBW</a>.</p>
 
 <!--START_SECTION:waka-->
+```text
+C   30 mins         █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
