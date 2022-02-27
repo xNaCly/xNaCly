@@ -15,11 +15,12 @@
 <p>I'm currently majoring in computer science at <a href="https://www.dhbw.de/startseite">DHBW</a>.</p>
 
 <!--START_SECTION:waka-->
+
 ```text
-C            4 hrs 41 mins   ████████████████████▒░░░░   80.92 % 
-TypeScript   44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Makefile     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-sh           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+C                4 hrs 41 mins   ████████████████████▒░░░░   80.92 %
+TypeScript       44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+Makefile         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Other            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
+
 <!--END_SECTION:waka-->
