@@ -9,7 +9,7 @@
 
 <h2> About me:</h2>
 
-<p>Hi, I'm Matteo, an 18-year-old student from Germany. </p>
+<p>Hi, I'm Matteo, an 19-year-old student from Germany. </p>
 <p>I'm interested in technologies and programming.</p>
 <p>I like to contribute to free open source software and I like to create small qol improving projects.</p>
 <p>I'm currently majoring in computer science at <a href="https://www.dhbw.de/startseite">DHBW</a>.</p>
