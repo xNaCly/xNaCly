@@ -17,12 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP              12 hrs 14 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
-Rust             12 hrs 10 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
-Java             10 hrs 56 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
-CSS              7 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-C                6 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-Markdown         3 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
