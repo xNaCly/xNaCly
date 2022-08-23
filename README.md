@@ -5,8 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=xnacly&&style=flat-square"/>
 </p>
 
-<h1 align="center"><a href="https://xnacly.vercel.app/"> xnacly</a> </h1>
-<h1 align="center"><a href="https://xnacly.github.io/blog"> xnacly - blog</a> </h1>
+<h1 align="center"><a href="https://xnacly.github.io/"> xnacly</a> </h1>
 
 <h2> About me:</h2>
 
