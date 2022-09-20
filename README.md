@@ -7,12 +7,20 @@
 
 <h1 align="center"><a href="https://xnacly.me"> xnacly</a> </h1>
 
-<h2> About me:</h2>
+## Hobby projects:
+- https://github.com/xNaCly/opusCli
+- https://github.com/xNaCly/c_paket
+- https://github.com/xNaCly/better-issues
+- https://github.com/xNaCly/netflix-rpc
+- https://github.com/xNaCly/xc
+- https://github.com/xNaCly/blog
 
-<p>Hi, I'm Matteo, an 19-year-old student from Germany. </p>
-<p>I'm interested in technologies and programming.</p>
-<p>I like to contribute to free open source software and I like to create small qol improving projects.</p>
-<p>I'm currently majoring in computer science at <a href="https://www.dhbw.de/startseite">DHBW</a>.</p>
+## Uni projects:
+- https://github.com/xNaCly/mandalore-wiki
+- https://github.com/xNaCly/pgmE
+- https://github.com/xNaCly/register_machine
+- https://github.com/xNaCly/warehouse-simulator
+
 
 <!--START_SECTION:waka-->
 
