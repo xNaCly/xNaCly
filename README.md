@@ -25,9 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown                   18 hrs 11 mins  ████████████████▓░░░░░░░░   66.45 %
-TypeScript                 3 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-Other                      1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Markdown                   17 hrs 1 min    ████████████████▒░░░░░░░░   64.74 %
+TypeScript                 3 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Bash                       1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Other                      1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
 ```
 
 <!--END_SECTION:waka-->
