@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Go           7 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   34.68 %
 TeX          6 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   28.64 %
 TypeScript   2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
