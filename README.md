@@ -10,11 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         15 hrs 48 mins  ████████████████░░░░░░░░░   63.72 %
-Markdown                   2 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-lisp                       1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-HTML                       1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Python                     54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
